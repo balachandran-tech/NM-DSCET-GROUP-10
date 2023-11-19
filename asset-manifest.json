@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NM-DSCET-GROUP-10/static/css/main.d79421aa.css",
+    "main.js": "/NM-DSCET-GROUP-10/static/js/main.0c38fb8e.js",
+    "static/js/787.9d576594.chunk.js": "/NM-DSCET-GROUP-10/static/js/787.9d576594.chunk.js",
+    "index.html": "/NM-DSCET-GROUP-10/index.html",
+    "main.d79421aa.css.map": "/NM-DSCET-GROUP-10/static/css/main.d79421aa.css.map",
+    "main.0c38fb8e.js.map": "/NM-DSCET-GROUP-10/static/js/main.0c38fb8e.js.map",
+    "787.9d576594.chunk.js.map": "/NM-DSCET-GROUP-10/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d79421aa.css",
+    "static/js/main.0c38fb8e.js"
+  ]
+}
