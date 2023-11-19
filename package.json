@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Sentamil03.github.io/Insta-react",
+  "homepage": "https://balachandran-tech.github.io/NM-DSCET-GROUP-10",
   "name": "instagram-clone",
   "version": "0.1.0",
   "private": true,
@@ -50,5 +50,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
-  
 }
